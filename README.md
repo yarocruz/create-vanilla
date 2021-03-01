@@ -4,7 +4,7 @@
 
 ## How to Install
 ```
-npm i create-vanilla
+npm i @jaycruz/create-vanilla -g
 ```
 To install the CLI just run npm install create-vanilla. This package was published [npm](https://www.npmjs.com/package/@jaycruz/create-vanilla) so it should work fine and dandy. 
 
