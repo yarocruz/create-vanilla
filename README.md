@@ -6,7 +6,7 @@
 ```
 npm i create-vanilla
 ```
-To install the CLI just run npm install create-vanilla. This package was published [npm]() so it should work fine and dandy. 
+To install the CLI just run npm install create-vanilla. This package was published [npm](https://www.npmjs.com/package/@jaycruz/create-vanilla) so it should work fine and dandy. 
 
 ## How to Use
 Once you install it on your machine, you should be able to run it on your terminal by typing: **create-vanilla** *folder-name*, with folder-name being any name you want. It will create a folder with three basic af files. Inside you will find an HTML file, a CSS file, and a JavaScript file.
