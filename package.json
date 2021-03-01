@@ -1,5 +1,5 @@
 {
-  "name": "create-vanilla",
+  "name": "@jaycruz/create-vanilla",
   "version": "1.0.0",
   "description": "Node CLI to scaffold a basic af web project.",
   "main": "bin/app.js",
